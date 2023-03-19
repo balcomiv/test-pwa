@@ -31,3 +31,11 @@ Visit the [Nx Documentation](https://nx.dev) to learn more.
 - [How to add PWA support in Angular project? #7183](https://github.com/nrwl/nx/discussions/7183)
 
 - `nx add @angular/pwa --project _project-name_`
+
+- [Getting Started With Angular Progressive Web Apps (PWA)](https://blog.briebug.com/blog/angular-progressive-web-application)
+
+- [Building Progressive Web Application (PWA) with Angular](https://hackernoon.com/building-progressive-web-application-pwa-with-angular)
+
+- [Angular PWA, install and configure](https://medium.com/ngconf/angular-pwa-install-and-configure-858dd8e9fb07)
+
+- [Create and Deploy a PWA with Angular: Step by Step Guide](https://javascript.plainenglish.io/create-and-deploy-a-pwa-with-angular-step-by-step-guide-cab2e471288d)
