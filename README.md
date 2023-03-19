@@ -19,3 +19,15 @@ Run `npx nx connect-to-nx-cloud` to enable [remote caching](https://nx.app) and 
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+## Migrating to standalone components
+
+- nx generate @angular/core:standalone --defaults
+- nx generate @angular/core:standalone --defaults --mode=prune-ng-modules
+- nx generate @angular/core:standalone --defaults --mode=standalone-bootstrap
+
+## Adding PWA Support
+
+- [How to add PWA support in Angular project? #7183](https://github.com/nrwl/nx/discussions/7183)
+
+- `nx add @angular/pwa --project _project-name_`
