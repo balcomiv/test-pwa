@@ -39,3 +39,8 @@ Visit the [Nx Documentation](https://nx.dev) to learn more.
 - [Angular PWA, install and configure](https://medium.com/ngconf/angular-pwa-install-and-configure-858dd8e9fb07)
 
 - [Create and Deploy a PWA with Angular: Step by Step Guide](https://javascript.plainenglish.io/create-and-deploy-a-pwa-with-angular-step-by-step-guide-cab2e471288d)
+
+## Commands Used
+
+- nx build --prod
+- npx http-server -p 8080 -c-1 dist/test-pwa
